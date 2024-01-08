@@ -6,15 +6,8 @@
       {
         "id": "ee5c2be903d00b94",
         "type": "tabs",
+        "dimension": 50,
         "children": [
-          {
-            "id": "f00a56095fe2ad2a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
           {
             "id": "1826e64aaf8cbe6f",
             "type": "leaf",
@@ -25,6 +18,21 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8c0f8053b704471c",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "f00a56095fe2ad2a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
