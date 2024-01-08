@@ -21,14 +21,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/Mission Monkey 0.4 Log 1.5.md",
+                "file": "Gameplay ideas hub page.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logs/Mission Monkey 0.4 Log 1.5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logs/Mission Monkey 0.4 Log 1.5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Logs/Mission Monkey 0.4 Log 1.5.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,14 +150,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1826e64aaf8cbe6f",
+  "active": "f00a56095fe2ad2a",
   "lastOpenFiles": [
-    "Pasted image 20240108001228.png",
-    "Logs/Mission Monkey Capstone Development Log 1.md",
-    "Logs/Mission Monkey 0.4 Log 1.5.md",
+    "README.md",
+    "The Notes Hub Page.md",
     "The Logs Hub Page.md",
     "Gameplay ideas hub page.md",
-    "The Notes Hub Page.md",
+    "Gameplay Ideas/How interactions can be handled in 0.4.md",
+    "Gameplay Ideas/Player Controller - Vaulting.md",
+    "Gameplay Ideas",
+    "Logs/Mission Monkey Update 0.4 Log 1.md",
+    "Logs/Mission Monkey Update 0.4 Log 1.5.md",
+    "Pasted image 20240108001228.png",
     "Software used to create mission monkey.md",
     "Screenshots/Log1-SaveData.png",
     "Screenshots/Log1-PlayerMovement.png",

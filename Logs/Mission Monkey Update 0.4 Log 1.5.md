@@ -1,4 +1,3 @@
-
 # Welcome to log 1.5
 
 It's been a whole 1 day since I wrote my previous log, but I have found my solution to my task organization problem! What am I using to keep track of every task? the answer is.....
