@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "71201566fb8269e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee5c2be903d00b94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f00a56095fe2ad2a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "1826e64aaf8cbe6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logs/Mission Monkey 0.4 Log 1.5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b962d58f20e38aba",
+    "type": "split",
+    "children": [
+      {
+        "id": "364e2e4dbfed05bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed61629f19f3c13d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66cee894cd42c924",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb26a592f540ef7e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "795bc151e73f7ebf",
+    "type": "split",
+    "children": [
+      {
+        "id": "96c3076e7797511e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62b3bd530dabf6f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Logs/Mission Monkey 0.4 Log 1.5.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd21364e68e06d21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Logs/Mission Monkey 0.4 Log 1.5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3fc644744c73da9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "81ddbb444ee2b72d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Logs/Mission Monkey 0.4 Log 1.5.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1826e64aaf8cbe6f",
+  "lastOpenFiles": [
+    "Pasted image 20240108001228.png",
+    "Logs/Mission Monkey Capstone Development Log 1.md",
+    "Logs/Mission Monkey 0.4 Log 1.5.md",
+    "The Logs Hub Page.md",
+    "Gameplay ideas hub page.md",
+    "The Notes Hub Page.md",
+    "Software used to create mission monkey.md",
+    "Screenshots/Log1-SaveData.png",
+    "Screenshots/Log1-PlayerMovement.png",
+    "Screenshots/Log1-WIPUI.png",
+    "Notes",
+    "Screenshots",
+    "Progress on 0.4.md",
+    "Gameplay Ideas",
+    "Logs",
+    "Welcome.md"
+  ]
+}
