@@ -8,7 +8,7 @@ Holy hell I have used Trello before and didn't really like it, but this is truly
 
 The largest feature that will be added in 0.4 is the completely remade chapter 1 level, aiming to be around 30 minutes long. I have thought of an idea that I think will allow me to work on the chapter faster. From now on, any work on Chapter 1 will be split into **sections**. Before starting any work on the level at all, I will split up work on the chapter into different sections and only focus on assets, code, etc. on the section I am working on. A genius plan for sure!
 
-![[Pasted image 20240108001228.png]](The tasks are still being made as of writing this log, so I have not been able to implement all the features Trello offers, such as Tags)
+![[TrelloPage.png]](The tasks are still being made as of writing this log, so I have not been able to implement all the features Trello offers, such as Tags)
 
 As you can see, I have also made a separate tab for any tasks that I think should be done AFTER the main tasks are completed (Ones that I think may take way too much time in this development cycle)
 # The end of log 1.5

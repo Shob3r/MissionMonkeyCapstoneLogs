@@ -1,0 +1,13 @@
+
+
+Mission: Monkey takes place about 1000 years in the future, in a universe where a massive corporation (name undecided at the moment) controls a massive portion of the solar system. In the latest endeavour of said company, they are developing a groundbreaking new invention: A brain chip that can alter how skilled the user of said chip is at certain fields. 
+
+During the start of the game, they are currently working on a brain chip that can make the user very skilled with handling weapons. This brain chip is being tested on a very large space station that is orbiting the moon. You play as a lab monkey that is about to be implanted with the brain chip and have scientists observe what you do with the chip.
+
+However, what is unknown to the scientists is that a group that is against this company (name also undecided at the moment) modified the chip the monkey is being implanted with the grant it a higher intelligence and a link to the monkey so they can talk to it. This leads to the monkey escaping the test chamber and begins a trek across the space station to escape.
+
+Eventually, the monkey finds a way out in the form of escape pods. It decides that it has to free all the other captive test monkeys and destroy the space station, and leads up to it fighting the AI system of the space station. The monkey will succeed in this fight, and cause the space station to blow up
+
+Once the monkey lands on the moon, it will be contacted by the group that modified the brain chip, and will be informed of why they need it. They explain to the monkey that the brain chip that is now in the monkey's head is so advanced that it can even beat extremely smart AI robots that guard locations of the company. No other person can do the job they want the monkey to do.
+
+The group tells the monkey that the corporation is harvesting energy from the sun (using a Dyson Sphere) to do something big. They theorise that they may be testing a rumoured time-travelling device, as it requires crazy power to be operational, even for fractions of a second. Time travel would mean that the corporation can alter the past to get an ideal future where they control every single corner of the solar system and possibly beyond, and obviously, the group who is against this corporation does not want this to happen. They want the monkey to go to each planet in the solar system and disable the main power harvester on each planet to prevent the time travel test from occurring. 

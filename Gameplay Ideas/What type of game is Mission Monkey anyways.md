@@ -1,0 +1,4 @@
+
+I did partially mention this in Log 1, but Mission: Monkey is a linear first-person shooter game, with some puzzle elements. Linear games are games that have a set beginning and end. This format of game has been somewhat fading out of popularity in the past decade or so thanks to open-world/non-linear games, which allow for much longer hours of playtime and freedom, but as a (pretty much) brand new developer, I think sticking to a linear game format may be better for my ambitions as I learn the tools I use to make something more simple
+
+Puzzle elements will need the player to actually user their brain to solve, instead of being extremely easy, but I will attempt to create a balance between brain usage and puzzle "funness". I don't really have any ideas on what puzzles there will be as of writing this file (28/01/24). I will obviously talk about it more in another file once I get to that part

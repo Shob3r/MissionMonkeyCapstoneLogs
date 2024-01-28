@@ -26,36 +26,22 @@ A rough feature list of this update will be:
 - A fully-rigged and animated Player model
 - Completely new (And smart) AI enemies 
 - All New UI (User Interface)
-- Voice acting (If I get around to it) & Captions
 - Post-Processing effects (To make the game stick out compared to the rest of them)
-- Optimized Performance & Better graphics settings
+- Optimised Performance & Better graphics settings
 
 Do I think i can do this in about 6 months? probably, but being pessimistic about it won't help whatsoever. I will attempt to finish everything. If I can't, I will finish everything to as far as I can take it before capstone presentation day, but I am optimistic. I will literally throw away my social life to make this happen
+
 # What has been done as of now
 
-As of this log, I have created the skeleton of the new player controller (Which is needed for the new movement mechanics), and I have created a basic implementation of the save/load system, which I recently realized may need a little overhaul if I don't want my code to be messy, And am currently creating the brand new UIs for the game (which may take a while since I am a programmer first and UI designer last). I have drafted plans for some of the new UI for the game, and hope to finish it within a few weeks after finishing the creation of this log.
+As of this log, I have created the skeleton of the new player controller (Which is needed for the new movement mechanics), and I have created a basic implementation of the save/load system, which I recently realised may need a little overhaul if I don't want my code to be messy, And am currently creating the brand new UIs for the game (which may take a while since I am a programmer first and UI designer last). I have drafted plans for some of the new UI for the game, and hope to finish it within a few weeks after finishing the creation of this log.
 
 # The biggest problem I currently face
 
-The biggest problem I have with this project right now is that my ideas are not organized whatsoever. I plan on fixing this somehow, and am looking into solutions for my problem. On log 2, I hope to talk about my solution for organizing everything.
+The biggest problem I have with this project right now is that my ideas are not organised whatsoever. I plan on fixing this somehow, and am looking into solutions for my problem. On log 2, I hope to talk about my solution for organising everything.
 
 Some solutions I have thought of include task/checklist software such as Microsoft to-do, but I feel like I need something more sophisticated to keep track of my ideas for this project. I do know that this obsidian vault will be the home for all of my notes, but I still need to figure out how to keep track of all the tasks for this project 
 # The end of log 1
 
 The key takeaways from this log is that I am hopeful for the future of this project and I am already making some progress on this update. That's it.
 
-If the reader wants to know what software the project uses, look in [[Software used to create mission monkey]]. If the reader wants to know progress on 0.4, look at the [[Progress on 0.4]] note. If the reader wants to view the notes I have taken, take a look at [[The Notes Hub Page]] and view what notes you want to view. The same goes for gameplay ideas, which can be accessed at [[Gameplay ideas hub page]]
-
-## Some pictures of the project in it's current state
-
-Please do mind that these pictures come from an in-development build of the game. Nothing is final, and everything is very much in very early stages of progress.
-New WIP UI
-![[Log1-WIPUI.png]]
-
-Part of the Player Movement script that I am currently working on
-![[Log1-PlayerMovement.png]]
-Part of the save data system code that I currently have
-![[Log1-SaveData.png]]
-
-### One Last thing...
-These logs will not require the reader to know programming lingo, but it may be useful for the reader to get to know some basic programming terminology 
+If the reader wants to know what software the project uses, look in [[Software used to create mission monkey]]. If the reader wants to view the notes I have taken, take a look at [[The Notes Hub Page]] and view what notes you want to view. The same goes for gameplay ideas, which can be accessed at [[Gameplay ideas hub page]]

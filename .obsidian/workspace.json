@@ -6,36 +6,65 @@
       {
         "id": "ee5c2be903d00b94",
         "type": "tabs",
-        "dimension": 50,
         "children": [
+          {
+            "id": "f00a56095fe2ad2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logs/Mission Monkey Update 0.4 Log 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "1826e64aaf8cbe6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay ideas hub page.md",
+                "file": "Lore/Basic Lore & Story Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "8c0f8053b704471c",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
+          },
           {
-            "id": "f00a56095fe2ad2a",
+            "id": "23e49ed614850374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/What happens at the end of the game.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4157204aea1d333",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "d67e1f038b8c5600",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Hub Hub.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lore/What happens at the end of the game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lore/What happens at the end of the game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lore/What happens at the end of the game.md"
+              }
             }
           }
         ]
@@ -158,25 +191,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f00a56095fe2ad2a",
+  "active": "23e49ed614850374",
   "lastOpenFiles": [
-    "README.md",
-    "The Notes Hub Page.md",
-    "The Logs Hub Page.md",
+    "Lore/The story behind the anti-company org.md",
+    "Lore/What happens at the end of the game.md",
+    "Lore/How the company grew to have such massive power.md",
+    "The Lore Hub Page.md",
+    "Lore/Basic Lore & Story Overview.md",
+    "The Hub Hub.md",
+    "Gameplay Ideas/What type of game is Mission Monkey anyways.md",
     "Gameplay ideas hub page.md",
+    "README.md",
+    "Logs/Mission Monkey Update 0.4 Log 2.md",
+    "Logs/Mission Monkey Update 0.4 Log 1.md",
+    "Mission Monkey Lore Hub Page.md",
+    "Lore",
+    "Screenshots/ObjectiveUI.png",
+    "Screenshots/PlayerUI.png",
+    "Screenshots/DeathUI.png",
+    "Screenshots/HealthBar.gif",
+    "Software used to create mission monkey.md",
+    "Gameplay Ideas/Chapter 1 - Final Boss.md",
+    "Gameplay Ideas/Enemy Type - Invisible slash Cloaked.md",
     "Gameplay Ideas/How interactions can be handled in 0.4.md",
     "Gameplay Ideas/Player Controller - Vaulting.md",
-    "Gameplay Ideas",
-    "Logs/Mission Monkey Update 0.4 Log 1.md",
     "Logs/Mission Monkey Update 0.4 Log 1.5.md",
-    "Pasted image 20240108001228.png",
-    "Software used to create mission monkey.md",
-    "Screenshots/Log1-SaveData.png",
-    "Screenshots/Log1-PlayerMovement.png",
-    "Screenshots/Log1-WIPUI.png",
+    "Screenshots/LoadSaveMenu.png",
+    "Screenshots/OptionsMenu.png",
+    "Screenshots/UpdateMenu.png",
+    "Screenshots/MainMenuScreenshot.png",
+    "Pasted image 20240127191020.png",
+    "Pasted image 20240127191440.png",
+    "![[SaveInfoGetterCodeSnippet.png]].md",
+    "[[SaveInfoGetterCodeSnippet.png]].md",
+    "The Logs Hub Page.md",
+    "Progress on 0.4.md",
+    "Logs/Mission Monkey 0.4 Log 1.5.md",
+    "Logs/Mission Monkey Capstone Development Log 1.md",
+    "The Notes Hub Page.md",
     "Notes",
     "Screenshots",
-    "Progress on 0.4.md",
     "Gameplay Ideas",
     "Logs",
     "Welcome.md"
