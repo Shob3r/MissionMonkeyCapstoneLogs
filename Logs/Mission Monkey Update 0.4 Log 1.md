@@ -43,5 +43,3 @@ Some solutions I have thought of include task/checklist software such as Microso
 # The end of log 1
 
 The key takeaways from this log is that I am hopeful for the future of this project and I am already making some progress on this update. That's it.
-
-If the reader wants to know what software the project uses, look in [[Software used to create mission monkey]]. If the reader wants to view the notes I have taken, take a look at [[The Notes Hub Page]] and view what notes you want to view. The same goes for gameplay ideas, which can be accessed at [[Gameplay ideas hub page]]

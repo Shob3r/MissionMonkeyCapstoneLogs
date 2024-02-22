@@ -1,6 +1,6 @@
 # Welcome to log 1.5
 
-It's been a whole 1 day since I wrote my previous log, but I have found my solution to my task organization problem! What am I using to keep track of every task? the answer is.....
+It's been a whole 1 day since I wrote my previous log, but I have found my solution to my task organisation problem! What am I using to keep track of every task? the answer is.....
 # Trello
 
 Holy hell I have used Trello before and didn't really like it, but this is truly an eye-opening experience for me. I don't know what happened but i feel like i can actually write out my ideas on there. It truly is a miracle. From now On, I will aim to do one or two tasks per day, if the tasks are smaller. If the tasks are much larger and take more time, I will be working on that task until I think it's completed.

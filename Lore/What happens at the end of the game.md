@@ -1,1 +1,1 @@
-lol i ain't spoiling my own game ideas
+lol i ain't spoiling the end of my game for the whole world to see

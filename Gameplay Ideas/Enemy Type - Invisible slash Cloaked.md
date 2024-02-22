@@ -1,1 +1,0 @@
-Invisible/Cloaked enemies can only be seen when using a **scope** on a gun that has one. without viewing the enemy from the scope, a small silhouette may appear when they are nearby (if they are further from the player the outline is not seen). Hitting an enemy while using a scope on a weapon may grant extra damage

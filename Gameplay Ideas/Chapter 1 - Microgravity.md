@@ -1,0 +1,2 @@
+
+In some areas of chapter 1, artificial gravity will not be present (either this is how the area is or it can be switched on or off by the player). This will require them to use a different set of keys to maneauver around the chapter 

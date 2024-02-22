@@ -1,0 +1,3 @@
+The moon is going to be the "hub world" of the game, where the player can progress through the game. It may have some special areas, but the main purpose will be just for story.
+
+As of right now, I do not think that I will allow replays of older chapters through the moon, and only the current chapter can be played through. It can also only be accessed in between chapters, and cannot be returned to on-demand. 

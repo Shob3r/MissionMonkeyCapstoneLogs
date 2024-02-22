@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/Mission Monkey Update 0.4 Log 1.md",
+                "file": "Gameplay Ideas/Chapter 1 - Layout.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Basic Lore & Story Overview.md",
+                "file": "Lore/What happens at the end of the game.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,34 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/What happens at the end of the game.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4157204aea1d333",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d67e1f038b8c5600",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "The Hub Hub.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/What happens at the end of the game.md",
+                "file": "Gameplay Ideas/Chapter 1 - Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/What happens at the end of the game.md",
+                "file": "Gameplay Ideas/Chapter 1 - Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/What happens at the end of the game.md"
+                "file": "Gameplay Ideas/Chapter 1 - Layout.md"
               }
             }
           }
@@ -191,48 +170,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23e49ed614850374",
+  "active": "f00a56095fe2ad2a",
   "lastOpenFiles": [
+    "Gameplay Ideas/Chapter 1 - Microgravity.md",
+    "Gameplay Ideas/Chapter 1 - Layout.md",
+    "Logs/Mission Monkey Update 0.4 Log 3.md",
+    "Logs/Mission Monkey Update 0.4 Log 2.md",
+    "2024-02-18 10-38-04.mp4",
+    "Pasted image 20240218110719.png",
+    "Notes/How The Enemy AI System Will Be Designed.md",
+    "Lore/Basic Lore & Story Overview.md",
     "Lore/The story behind the anti-company org.md",
     "Lore/What happens at the end of the game.md",
-    "Lore/How the company grew to have such massive power.md",
-    "The Lore Hub Page.md",
-    "Lore/Basic Lore & Story Overview.md",
+    "Lore/How The Company Got So Big.md",
     "The Hub Hub.md",
-    "Gameplay Ideas/What type of game is Mission Monkey anyways.md",
+    "Logs/Log 2.5.md",
     "Gameplay ideas hub page.md",
     "README.md",
-    "Logs/Mission Monkey Update 0.4 Log 2.md",
+    "example file.md",
+    "Gameplay Ideas/Enemy Type - Invisible.md",
+    "Gameplay Ideas/Gameplay Systems",
+    "Gameplay Ideas/Gameplay on chapters that involve gas giants.md",
+    "Gameplay Ideas/How interactions can be handled in 0.4.md",
+    "Gameplay Ideas/What type of game is Mission Monkey anyways.md",
+    "The Notes Hub Page.md",
+    "Gameplay Ideas/Chapter 1 - Final Boss.md",
+    "Gameplay Ideas/Chapter Order.md",
+    "Gameplay Ideas/Use of the moon in the game.md",
     "Logs/Mission Monkey Update 0.4 Log 1.md",
-    "Mission Monkey Lore Hub Page.md",
+    "The Lore Hub Page.md",
+    "Lore/How the company grew to have such massive power.md",
+    "Software used to create mission monkey.md",
     "Lore",
     "Screenshots/ObjectiveUI.png",
     "Screenshots/PlayerUI.png",
     "Screenshots/DeathUI.png",
     "Screenshots/HealthBar.gif",
-    "Software used to create mission monkey.md",
-    "Gameplay Ideas/Chapter 1 - Final Boss.md",
-    "Gameplay Ideas/Enemy Type - Invisible slash Cloaked.md",
-    "Gameplay Ideas/How interactions can be handled in 0.4.md",
-    "Gameplay Ideas/Player Controller - Vaulting.md",
-    "Logs/Mission Monkey Update 0.4 Log 1.5.md",
     "Screenshots/LoadSaveMenu.png",
     "Screenshots/OptionsMenu.png",
     "Screenshots/UpdateMenu.png",
     "Screenshots/MainMenuScreenshot.png",
     "Pasted image 20240127191020.png",
-    "Pasted image 20240127191440.png",
-    "![[SaveInfoGetterCodeSnippet.png]].md",
-    "[[SaveInfoGetterCodeSnippet.png]].md",
-    "The Logs Hub Page.md",
-    "Progress on 0.4.md",
-    "Logs/Mission Monkey 0.4 Log 1.5.md",
-    "Logs/Mission Monkey Capstone Development Log 1.md",
-    "The Notes Hub Page.md",
     "Notes",
     "Screenshots",
     "Gameplay Ideas",
-    "Logs",
-    "Welcome.md"
+    "Logs"
   ]
 }

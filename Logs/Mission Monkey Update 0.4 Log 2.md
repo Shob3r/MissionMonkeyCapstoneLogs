@@ -37,7 +37,7 @@ In the future, I will create a 3d model for the location of the first chapter. I
 
 This menu shows whenever the player wants to start a new game. A menu containing all the playable chapters will show and the player can select one of them as the starting point. Once I get to developing more chapters of this game (after capstone), I will make sure that the player can only select later chapters in the game if they have already played through the game once.
 
-This UI is waiting on a slight overhaul after some basic level works have been completed on Chapter 1, so it's mostly the exact same thing all the way down
+This UI is incomplete at the time of writing because i'm just lazy. It will be done before the capstone deadline nears
 
 ## Save/Load Game Menus
 
