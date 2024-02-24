@@ -19,15 +19,22 @@ Below are visualisations of my explanation:
 Needless to say, I am very pleased with the outcome of the detection system
 ## Enemy Navigation
 
+Enemy Navigation is a pretty simple script. While the player has not been noticed, it will navigate around a set of "Patrol points". Once the player is seen however, it will follow the player until it is destroyed. I was going to make it slightly more complicated like how i explained in my plans for the system, but it would take way too much time than what i currently have available to me (90 days), so the way it navigates right now is fine
 
 ## Enemy Attack
 
-## Enemy State Manager
+Once again, this script is much more simple than the enemy sight script. this script fires a Raycast towards the player once every x seconds (x being a value that I can set for each AI in the game. currently the default is 0.25 seconds) if the player is in the AI's attack range. Each time the ray is fired, also play the sound effect attached to the script. 
 
-The Enemy State Manager Script Imports all of the other scripts required for an enemy, and manages 
-## Enemy Animation Manager
+If the Raycast hits the player, deal a predefined amount of damage (Working on random damage too). If not, wait until the script runs again
 
 
+## Enemy AI stuff I will need to do later or after the capstone is over:
+
+The current state of the AI system is very, very good, but it is still missing a few things. I would love to finish these but I fear I may not have time for the meat of my project, which would be a total remake of chapter 1. So these features will be worked on alongside the new chapter 1 or will be done after capstone is over when there is no more time crunch on my back
+
+- AI Animations (This will happen before capstone is over)
+- AoE (Area of Effect) attacks (most likely after capstone)
+- Ambient sound effects of the AI (Will happen before capstone is over)
 ## The other thing I did in my project: The brand new save/load system
 
 Dear lord the old one SUCKED. but the new one is incredible. it works exactly the same as my old system, but the code is much more clean and accessible to the rest of the project. absolutely worth the two days I spent on it-
@@ -38,3 +45,23 @@ Dear lord the old one SUCKED. but the new one is incredible. it works exactly th
 With the AI system, the base code for the game is now complete. I will now start work on the actual gameplay of chapter 1. I have been working on other features for far, far too long and I am running out of time for the meat of the project, where I can showcase my 3d modelling and animation skills as well as my ShaderGraph skills that i'll learn when creating surfaces
 
 
+# Other things
+
+
+## New Lemon Studios Logo
+
+I am currently in the process of redesigning the logo of the organisation which Mission: Monkey is a part of (don't know how to phrase that one). The old one was good and all, but I made it all the way back in grade 9 and it just looks quite bad compared to what i'm working on right now
+
+I created the new logo using skills I learned in Content Creation and Digital Marketing 
+
+
+Current Logo (The Old one):
+![[Pasted image 20240224011528.png]]
+New Work-In-Progress Logo (Not Final)
+![[Pasted image 20240224011543.png]]
+## Lemon Studios Launcher
+
+This isn't related much to my capstone project, but a friend of mine has decided to create an application that allows users to download projects created by lemon studios (currently, the only project that can be downloaded is Mission: Monkey, so that is the only game tab). I am not working on it currently, but after capstone is over, I will almost certainly be creating back-end infrastructure that will be used with this launcher. 
+
+Here is a screenshot of what it currently looks like: 
+![[Pasted image 20240224011956.png]]

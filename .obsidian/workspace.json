@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Hub Hub.md",
+                "file": "Logs/Mission Monkey Update 0.4 Log 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay Ideas/Chapter 1 - Layout.md",
+                "file": "Logs/Mission Monkey Update 0.4 Log 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay Ideas/Chapter 1 - Layout.md",
+                "file": "Logs/Mission Monkey Update 0.4 Log 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay Ideas/Chapter 1 - Layout.md"
+                "file": "Logs/Mission Monkey Update 0.4 Log 3.md"
               }
             }
           }
@@ -170,10 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f00a56095fe2ad2a",
+  "active": "23e49ed614850374",
   "lastOpenFiles": [
-    "Gameplay Ideas/Chapter 1 - Microgravity.md",
+    "Pasted image 20240224011956.png",
+    "Pasted image 20240224011543.png",
+    "Pasted image 20240224011528.png",
+    "The Hub Hub.md",
+    "Lore/What happens at the end of the game.md",
     "Gameplay Ideas/Chapter 1 - Layout.md",
+    "Gameplay Ideas/Chapter 1 - Microgravity.md",
     "Logs/Mission Monkey Update 0.4 Log 3.md",
     "Logs/Mission Monkey Update 0.4 Log 2.md",
     "2024-02-18 10-38-04.mp4",
@@ -181,9 +187,7 @@
     "Notes/How The Enemy AI System Will Be Designed.md",
     "Lore/Basic Lore & Story Overview.md",
     "Lore/The story behind the anti-company org.md",
-    "Lore/What happens at the end of the game.md",
     "Lore/How The Company Got So Big.md",
-    "The Hub Hub.md",
     "Logs/Log 2.5.md",
     "Gameplay ideas hub page.md",
     "README.md",
@@ -200,7 +204,6 @@
     "Logs/Mission Monkey Update 0.4 Log 1.md",
     "The Lore Hub Page.md",
     "Lore/How the company grew to have such massive power.md",
-    "Software used to create mission monkey.md",
     "Lore",
     "Screenshots/ObjectiveUI.png",
     "Screenshots/PlayerUI.png",
@@ -209,8 +212,6 @@
     "Screenshots/LoadSaveMenu.png",
     "Screenshots/OptionsMenu.png",
     "Screenshots/UpdateMenu.png",
-    "Screenshots/MainMenuScreenshot.png",
-    "Pasted image 20240127191020.png",
     "Notes",
     "Screenshots",
     "Gameplay Ideas",
